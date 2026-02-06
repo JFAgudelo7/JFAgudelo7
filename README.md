@@ -24,7 +24,7 @@
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,firebase,github,html,java,js,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,kubernetes,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,grafana,css,docker,firebase,github,html,java,js,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,kubernetes,anaconda,angular,bootstrap,codepen,bots,eclipse,heroku,jquery,kali,latex,mint,mysql,npm,pycharm,regex,stackoverflow,sublime,tensorflow,&perline=14" />
   </a>
 </p>
 
